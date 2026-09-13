@@ -8,13 +8,17 @@
 
 <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/8154f5a3-c7f8-4d36-b638-4270290a7294" />
 
-
-
+[![Watch Royal Rescue Gameplay](https://img.youtube.com/vi/X_KaJ_kD89c/maxresdefault.jpg)](https://www.youtube.com/watch?v=X_KaJ_kD89c)
+*(Click the image above to watch the gameplay demonstration on YouTube)*
 
 ## Tech Stack & Tools
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-8A2BE2?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/AI_Algorithms-FF1493?style=for-the-badge)
+
+
+
+
 ![Game Development](https://img.shields.io/badge/Game_Dev-0000FF?style=for-the-badge)
 ![FSM](https://img.shields.io/badge/State_Machines-228B22?style=for-the-badge)
 
