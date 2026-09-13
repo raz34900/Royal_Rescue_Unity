@@ -37,6 +37,19 @@
 * **Dynamic Minimap System:** A real-time navigational minimap UI built with a secondary orthographic camera, tracking the player's position and orientation to aid exploration across complex environments.
 * **Weapon Mechanics & Combat Stats:** An integrated combat system featuring distinct weapons with unique damage values and attack speeds, requiring players to adapt their combat timing and strategy during enemy encounters.
 
+
+## Gameplay Progression
+
+* **1. Exploration & Narrative (The Village):** 
+  The adventure begins in a peaceful village. Players interact with local NPCs (like Miriam the Bartender) through a cinematic dialogue system to uncover the lore and receive the primary quest: rescuing the Princess.
+* **2. Combat & Resource Gathering (The Cave):** 
+  Players navigate a hostile cavern filled with environmental hazards and hanging weapons. 
+  * **Combat:** Engage in dynamic, stats-based combat against a rock-throwing boss monster. Success requires tactical movement, blocking, and timing.
+  * **Collection:** Players must explore the cavern to collect essential resources and scattered crystals required for the next phase.
+* **3. Puzzle Solving & Escort (The Island):** 
+  Upon reaching the island, players utilize their collected resources to construct a bridge, unlocking the path to the captive Princess. Once freed, the Companion AI activates, and the player must safely escort her back to the village.
+  
+
 ## Game Worlds (Scenes)
 
 | Scene Name | Description | Key Mechanics |
