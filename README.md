@@ -2,7 +2,7 @@
 
 > **An AI-Driven Game Environment Developed in Unity**
 
-[![Watch Video](https://img.shields.io/badge/Watch_Gameplay_Video-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)]([YOUR_DRIVE_LINK_HERE](https://drive.google.com/file/d/1Hg4Bhmfjw2EwFRcGi0yZAXMJWDoW-bQb/view?usp=sharing))
+[![Watch Gameplay Video](https://img.shields.io/badge/Watch_Gameplay_Video-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Hg4Bhmfjw2EwFRcGi0yZAXMJWDoW-bQb/view?usp=drive_link)
 
 *(Click the link above to watch the gameplay and AI demonstration)*
 
