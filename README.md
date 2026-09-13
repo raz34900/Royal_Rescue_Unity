@@ -6,7 +6,7 @@
 
 *(Click the link above to watch the gameplay and AI demonstration)*
 
-<img width="1120" height="956" alt="Gemini_Generated_Image_6y0c3k6y0c3k6y0c" src="https://github.com/user-attachments/assets/196fb571-e76f-4d05-b19b-e085327a714e" />
+<img width="600" height="400" alt="Gemini_Generated_Image_6y0c3k6y0c3k6y0c" src="https://github.com/user-attachments/assets/196fb571-e76f-4d05-b19b-e085327a714e" />
 
 
 ## Tech Stack & Tools
