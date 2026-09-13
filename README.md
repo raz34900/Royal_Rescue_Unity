@@ -6,7 +6,9 @@
 
 *(Click the link above to watch the gameplay and AI demonstration)*
 
-<img width="600" height="400" alt="Gemini_Generated_Image_6y0c3k6y0c3k6y0c" src="https://github.com/user-attachments/assets/196fb571-e76f-4d05-b19b-e085327a714e" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/8154f5a3-c7f8-4d36-b638-4270290a7294" />
+
+
 
 
 ## Tech Stack & Tools
@@ -24,6 +26,9 @@
 * **Companion AI:** An advanced `NavMeshAgent` integration that allows rescued characters (like the Princess) to seamlessly follow the player, maintaining a polite distance and automatically updating animation states.
 * **Proximity-Based NPC Behavior:** NPCs react organically to the player's presence. Using custom C# scripts and Unity's Animator, characters transition between ambient idle animations and interactive poses (e.g., kneeling and pointing) based on distance calculation.
 * **Custom Editor Automation:** A robust suite of Unity Editor scripts (`[MenuItem]`) designed to eliminate manual Inspector drag-and-drop. These tools programmatically configure Animator parameters, assign AudioClips, inject missing components, and reset bone transforms with a single click.
+* **Enemy AI & Projectile Combat:** A dynamic monster AI that detects the player and calculates trajectories to throw rock projectiles, utilizing state machines to seamlessly switch between idle, chase, and attack behaviors.
+* **Dynamic Minimap System:** A real-time navigational minimap UI built with a secondary orthographic camera, tracking the player's position and orientation to aid exploration across complex environments.
+* **Weapon Mechanics & Combat Stats:** An integrated combat system featuring distinct weapons with unique damage values and attack speeds, requiring players to adapt their combat timing and strategy during enemy encounters.
 
 ## Game Worlds (Scenes)
 
@@ -32,6 +37,13 @@
 | **The Village** | A peaceful starting area featuring the local bar. | Cinematic sequence triggers, advanced audio syncing, and spatial teleportation (Miriam the Bartender). |
 | **The Cave** | A treacherous cavern environment with hanging weapons and glowing crystals. | Terrain texture blending (TerrainLit), Proximity IK animations, and dynamic UI triggers (Peasant Man). |
 | **The Island** | The final rescue destination. | End-game state management and Companion AI initialization. |
+
+<img width="522" height="254" alt="image" src="https://github.com/user-attachments/assets/d1230159-153a-42d1-90db-5bfbbd4b19a4" />
+<img width="521" height="252" alt="image" src="https://github.com/user-attachments/assets/41092ad5-1b65-4438-a541-50584348e344" />
+<img width="521" height="250" alt="image" src="https://github.com/user-attachments/assets/78667ab2-8b2b-4bcd-8b9d-f3e682f6e821" />
+<img width="522" height="254" alt="image" src="https://github.com/user-attachments/assets/e3a30d0f-6417-45e7-8ac1-5fdbf90530c3" />
+<img width="521" height="251" alt="image" src="https://github.com/user-attachments/assets/72928a3c-590b-42a0-96e8-ad3f4307b356" />
+<img width="524" height="246" alt="image" src="https://github.com/user-attachments/assets/1003ca9a-d789-458c-a357-5614bacab1ee" />
 
 ## Tech Stack & Tools
 
